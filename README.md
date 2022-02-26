@@ -23,6 +23,9 @@ Clone the directory. Run NPM i from the root directory. You will need to log int
 
 follow the command prompts
 
+view video
+https://drive.google.com/file/d/1qzUzGMHRcjk_bbzZ7qy2S-uIuSz9xTnz/view
+
 ## Credits
 
 none
